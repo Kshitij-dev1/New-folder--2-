@@ -2,4 +2,5 @@
     padding-left: 35px;
     padding-left: 25px;
     grid-row: inherit;
+    columns: 2/3;
 }
